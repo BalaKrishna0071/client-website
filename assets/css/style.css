@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+
+*{
+    font-family: 'Bree Serif', serif;
+}
+
+/* navigation section */
+
+
+.navbar-nav .nav-item{
+    font-family: 'Heebo', sans-serif;
+} 
+
+.btn-green{
+    background-color: #3CC68A !important;
+    color:#FFFF;
+}
+
+
+/* home section */
+
+#home-section .container{
+    background-color: #F9FBFD;
+}
+
+/* #home-section img{
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    left: 700px;
+    top:100px;
+} */
+
+#home-section .head1{
+    font-weight: 400px;
+    font-size: 60px;
+    line-height:80px;
+    font-family: 'bree serif';
+}
+
+#home-section .head2{
+    font-weight: 400px;
+    font-size: 16px;
+    line-height: 42px;
+
+}
+#home-section .input-group{
+    width: 350px;
+    height: 60px;
+
+}
+#home-section .container .left-cont .custom-img {
+    position: absolute;
+    width: 50px;
+    height:10px;
+    bottom: 300px;
+    right: 1000px;
+}
+
+/* subscribe section*/
+#subscribe-section{
+    background-color: #f6daf7;
+
+}
+
+#subscribe-section{
+    margin-top:100px;
+} 
+#subscribe-section .container{
+    margin-top:100px
+}
+#subscribe-section .row .input-group button{
+    background-color: #DB4A87;
+}
+#subscribe-section .row .head3{
+    font-size: 34px;
+    font-weight: 700px;
+    line-height: 55px;
+    width: 478px;
+    height: 55px;
+}
+#subscribe-section .row .head4{
+    width: 412px;
+    height: 53px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+}
+/* footer section */
+
+#footer-section .container .row .head{
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 500px;
+    line-height: 30px;
+
+}
+#footer-section .container .row li{
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: 400px;
+    line-height: 37.5px;
+    list-style: none;
+}
+#footer-section .container .row .custom-icon i {
+    width: 1224px;
+    height:248.05px;
+}
+#footer-section .container .row li{
+    padding-left: 10px;
+}
+
+/* testimonials section */
+
+#testimonials .container .rows h6{
+    font-family: dam sans-serif;
+    font-size: 20px;
+    font-weight: 700px,bold;
+    line-height: 40px;
+    color: #244886;
+}
+#testimonials .container .rows p{
+    font-size: 36px;
+    line-height: 55px;
+    font-weight: 700px;
+    color: #0F2137;
+}
+
+#testimonials .container .rows .card .card-title{
+    font-family: 'DM Sans';
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 33px;
+}
+#testimonials .container .rows .card{
+    background-color: #FFFFFF;
+}
+#testimonials .container .rows .card .title{
+    font-family: 'DM Sans';
+    font-weight: 400px;
+    font-size: 18px;
+    line-height: 38px;
+    font-style: normal;
+}
+#testimonials .container .rows .card h5{
+    font-family: 'DM Sans';
+    font-size: 16px;
+    font-style: normal;
+    color: #0F2137;
+}
+#testimonials .container .rows .card h6{
+    font-family: 'DM Sans';
+    font-size: 15px;
+    font-style: normal;
+    color: #25A0FF;;
+    font-weight: 500;
+}

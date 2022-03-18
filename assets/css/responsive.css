@@ -1,0 +1,27 @@
+/*tablet device  */
+@media(min-width:768px){
+#home-section .container .row h1{
+    line-height: 40px;
+    font-size: 54px;
+    line-height: 63px;
+}
+#home-section .container .row .input-group{
+    padding: 7px;
+}
+}
+/* mobile devices */
+@media(max-width:576px){
+#home-section .container .row h1{
+    font-size: 35px;
+    line-height: 55px;
+    margin-bottom: 12px;
+    align-items: center;
+}
+#home-section .container .row .input-group{
+    margin-bottom: 22px;
+    padding: 10px;
+}
+#home-section .container .row img{
+    padding: 11px;
+}
+}
