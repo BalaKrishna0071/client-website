@@ -69,23 +69,78 @@
 #subscribe-section .container{
     margin-top:100px
 }
+#subscribe-section .row .input-group{
+    margin-top: 26px;
+}
 #subscribe-section .row .input-group button{
     background-color: #DB4A87;
+    
 }
 #subscribe-section .row .head3{
     font-size: 34px;
     font-weight: 700px;
     line-height: 55px;
-    width: 478px;
-    height: 55px;
+    /* width: 478px;
+    height: 55px; */
 }
 #subscribe-section .row .head4{
-    width: 412px;
-    height: 53px;
+    /* width: 412px;
+    height: 53px; */
     font-weight: 400;
     font-size: 16px;
     line-height: 30px;
 }
+
+/* testimonials section */
+
+#testimonials .container .row h6{
+    font-family: dam sans-serif;
+    font-size: 20px;
+    font-weight: 700px,bold;
+    line-height: 40px;
+    color: #244886;
+}
+#testimonials .container .row p{
+    font-size: 36px;
+    line-height: 55px;
+    font-weight: 700px;
+    color: #0F2137;
+}
+
+#testimonials .container .row .card .card-title{
+    font-family: 'DM Sans';
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 33px;
+}
+#testimonials .container .row .card{
+    background-color: #FFFFFF;
+}
+#testimonials .container .row .card .title{
+    font-family: 'DM Sans';
+    font-weight: 400px;
+    font-size: 18px;
+    line-height: 38px;
+    font-style: normal;
+}
+#testimonials .container .row .card h5{
+    font-family: 'DM Sans';
+    font-size: 16px;
+    font-style: normal;
+    color: #0F2137;
+}
+#testimonials .container .row .card h6{
+    font-family: 'DM Sans';
+    font-size: 15px;
+    font-style: normal;
+    color: #25A0FF;;
+    font-weight: 500;
+}
+#testimonials .container .row{
+    padding-right: 20px;
+    justify-content: center;
+}
+
 /* footer section */
 
 #footer-section .container .row .head{
@@ -106,52 +161,6 @@
     width: 1224px;
     height:248.05px;
 }
-#footer-section .container .row li{
+/* #footer-section .container .row li{
     padding-left: 10px;
-}
-
-/* testimonials section */
-
-#testimonials .container .rows h6{
-    font-family: dam sans-serif;
-    font-size: 20px;
-    font-weight: 700px,bold;
-    line-height: 40px;
-    color: #244886;
-}
-#testimonials .container .rows p{
-    font-size: 36px;
-    line-height: 55px;
-    font-weight: 700px;
-    color: #0F2137;
-}
-
-#testimonials .container .rows .card .card-title{
-    font-family: 'DM Sans';
-    font-size: 16px;
-    font-weight: 700;
-    line-height: 33px;
-}
-#testimonials .container .rows .card{
-    background-color: #FFFFFF;
-}
-#testimonials .container .rows .card .title{
-    font-family: 'DM Sans';
-    font-weight: 400px;
-    font-size: 18px;
-    line-height: 38px;
-    font-style: normal;
-}
-#testimonials .container .rows .card h5{
-    font-family: 'DM Sans';
-    font-size: 16px;
-    font-style: normal;
-    color: #0F2137;
-}
-#testimonials .container .rows .card h6{
-    font-family: 'DM Sans';
-    font-size: 15px;
-    font-style: normal;
-    color: #25A0FF;;
-    font-weight: 500;
-}
+} */
