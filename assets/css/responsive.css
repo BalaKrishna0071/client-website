@@ -5,9 +5,9 @@
     font-size: 54px;
     line-height: 63px;
 }
-#home-section .container .row .input-group{
+/* #home-section .container .row .input-group{
     padding: 7px;
-}
+} */
 #testimonials .container .row .card{
     justify-content: center;
     margin-top: 26px;
@@ -52,6 +52,7 @@
 }
 #subscribe-section .container .head3{
     font-size: 17px;
+    font-weight: 800;
 }
 #subscribe-section .container .head4{
     display: flex;
