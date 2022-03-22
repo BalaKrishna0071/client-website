@@ -27,7 +27,7 @@
 }
 }
 /* mobile devices */
-@media(min-width:576px){
+@media(max-width:576px){
 #home-section .container .row h1{
     font-size: 35px;
     line-height: 55px;
